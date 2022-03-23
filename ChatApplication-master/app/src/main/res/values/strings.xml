@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="server_client_id">507080580814-fnv61ivi1jj8ajp33hqpnf1k1v6hftj9.apps.googleusercontent.com</string>
+</resources>
